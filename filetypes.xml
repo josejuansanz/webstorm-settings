@@ -15,6 +15,7 @@
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern="sentry-cli" type="PLAIN_TEXT" />
       <mapping ext="gradle" type="PLAIN_TEXT" />
+      <mapping ext="java" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
