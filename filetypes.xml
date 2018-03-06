@@ -11,6 +11,7 @@
       <mapping ext="prc" type="DBN-PSQL" />
       <mapping ext="trg" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
+      <mapping pattern="fdafa" type="PLAIN_TEXT" />
       <mapping pattern="redux-persist" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern="sentry-cli" type="PLAIN_TEXT" />
