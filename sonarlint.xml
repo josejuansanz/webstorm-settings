@@ -1,0 +1,15 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://ci.gabriele.ai/sonar/" />
+          <option name="name" value="SonarQube" />
+          <option name="login" value="josejuansanz" />
+          <password>dfc4dfcbdfd8dfd8dfcbdfdedfc3dfdcdfcbdf84df80</password>
+          <organizationKey>default-organization</organizationKey>
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>
