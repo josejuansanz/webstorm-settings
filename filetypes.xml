@@ -20,6 +20,7 @@
       <mapping ext="properties" type="PLAIN_TEXT" />
       <mapping ext="gradle" type="PLAIN_TEXT" />
       <mapping ext="java" type="PLAIN_TEXT" />
+      <mapping ext="tsv" type="PLAIN_TEXT" />
       <mapping ext="mem" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
